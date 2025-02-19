@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "Asteroid難易度表",
+"symbol" : "ar",
+"data_url" : "https://script.google.com/macros/s/AKfycbwuFOZz81i3DksIeRtd9p7YecVqd6M6xnqJMZu7tSk-Ca0Jjn2YIC8uWhqBVU753pqZzg/exec"
 }
